@@ -1,0 +1,41 @@
+{
+    "message": "MSI file uploaded successfully: wsl_update_x64.msi",
+    "fileInfo": {
+        "fileName": "wsl_update_x64.msi",
+        "fileSize": 17104896,
+        "filePath": "/home/syseng/backend_wrapper_app/uploads/wsl_update_x64.msi",
+        "fileType": "MSI",
+        "extractionMethod": "PowerShell",
+        "versionInfo": {
+            "ProductName": "Windows Subsystem for Linux Update",
+            "ProductVersion": "5.10.16",
+            "ProductCode": "{36EF257E-21D5-44F7-8451-07923A8C465E}",
+            "CompanyName": "Microsoft Corporation",
+            "Manufacturer": "Microsoft Corporation",
+            "FileDescription": "",
+            "Comments": "",
+            "LegalCopyright": "© 2025 Microsoft Corporation"
+        },
+        "msiProperties": {
+            "ErrorDialog": "ErrorDlg",
+            "WixUI_Mode": "Custom",
+            "ProductName": "Windows Subsystem for Linux Update",
+            "Manufacturer": "Microsoft Corporation",
+            "ProductCode": "{36EF257E-21D5-44F7-8451-07923A8C465E}",
+            "SecureCustomProperties": "WIX_DOWNGRADE_DETECTED;WIX_UPGRADE_DETECTED",
+            "FilePath": "/home/syseng/backend_wrapper_app/uploads/wsl_update_x64.msi",
+            "ARPNOMODIFY": "1",
+            "DefaultUIFont": "WixUI_Font_Normal",
+            "ProductLanguage": "0",
+            "RebootYesNo": "No",
+            "ARPHELPLINK": "https://aka.ms/wsl2kernel",
+            "DiskPrompt": "[1]",
+            "UpgradeCode": "{1C3DB5B6-65A5-4EBC-A5B9-2F2D6F665F48}",
+            "ARPURLINFOABOUT": "https://aka.ms/wsl2",
+            "WIXUI_INSTALLDIR": "TARGETDIR",
+            "ProductVersion": "5.10.16",
+            "REBOOT": "ReallySuppress",
+            "ALLUSERS": "1"
+        }
+    }
+}
